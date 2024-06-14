@@ -50,8 +50,6 @@ $ cd todo-list
 $ npm install
 ```
 
-### ou
-
 ```
 $ yarn
 ```
