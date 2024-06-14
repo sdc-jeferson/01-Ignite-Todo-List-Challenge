@@ -35,7 +35,7 @@ Você também pode executá-la em sua máquina localmente. Certifique-se de ter 
 1. Clone o projeto:
 
 ```
-$ git clone https://github.com/sdc-jeferson/01-Ingnite-Todo-List-Challenge.git
+$ git clone https://github.com/sdc-jeferson/01-Ignite-Todo-List-Challenge.git
 ```
 
 2. Acesse a pasta do projeto:
@@ -50,10 +50,20 @@ $ cd todo-list
 $ npm install
 ```
 
+### ou
+
+```
+$ yarn
+```
+
 4. Inicie o servidor:
 
 ```
 $ npm run dev
+```
+
+```
+$ yarn dev
 ```
 
 <p align="center">
