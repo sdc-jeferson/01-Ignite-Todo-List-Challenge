@@ -6,16 +6,11 @@
   <a href="#project">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#technologies">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#usage">Utilização</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#license">Licença</a>
-</p>
-
-<p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
 
 <h2 id="project">📁 Projeto</h2>
 
-O projeto consiste numa lista de tarefas que contém as seguintes funcionalidades:
+To-do é uma aplicação simples desenvolvida em ReactJS para gerenciamento de tarefas diárias. Utilizando os conceitos e fundamentos da ferramenta para a conclusão do desafio do capítulo 1 do ignite 2024.
 
 - Adicionar uma nova tarefa
 - Marcar e desmarcar uma tarefa como concluída
@@ -28,21 +23,19 @@ O projeto consiste numa lista de tarefas que contém as seguintes funcionalidade
 
 Este projeto foi desenvolvido com tecnologias como:
 
-- React
-- ReactDOM
-- TypeScript
-- Vite
+- Vite;
+- React Js;
+- Css Modules;
+- TypeScript;
 
 <h2 id="usage">💡 Utilização</h2>
-
-A aplicação está disponível para uso [aqui](https://todo-list-phi-sandy.vercel.app/).
 
 Você também pode executá-la em sua máquina localmente. Certifique-se de ter o `Node.js` e o `npm` instalados antes de prosseguir com as etapas abaixo:
 
 1. Clone o projeto:
 
 ```
-$ git clone https://github.com/sdc-jeferson/todo-list
+$ git clone https://github.com/sdc-jeferson/01-Ingnite-Todo-List-Challenge.git
 ```
 
 2. Acesse a pasta do projeto:
@@ -64,5 +57,5 @@ $ npm run dev
 ```
 
 <p align="center">
-Developed by Jeferson. 👋🏾
+Developed by Jeferson 👋🏾
 </p>
